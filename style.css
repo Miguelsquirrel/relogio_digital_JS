@@ -1,0 +1,41 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    font-family: sans-serif;
+
+}
+.center{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    margin-top: 20%;
+}
+.azul{
+    margin: 10px;
+    color: rgb(0, 128, 255);
+    padding: 10px;
+    border-radius: 0.1em;
+    background: rgb(57, 57, 57);
+}
+.verde{
+    margin: 10px;
+    color: rgb(23, 219, 121);
+    padding: 10px;
+    border-radius: 0.1em;
+    background: rgb(57, 57, 57);
+}
+.amarelo{
+    margin: 10px;
+    color: rgb(185, 206, 22);
+    padding: 10px;
+    border-radius: 0.1em;
+    background: rgb(57, 57, 57);
+}
